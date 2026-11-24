@@ -6,7 +6,9 @@ v1.0.0 · Betty（小鹿） · [MIT 许可证](LICENSE)
 
 ## 使用方式
 
-将整个 resume-writing-skill 文件夹交给支持本地 Skill 的 Codex 安装。使用时附上已隐去身份信息的简历或经历，以及目标岗位原文或意向方向。
+下载并解压后，保留完整的 `resume-writing-skill` 文件夹。Codex、WorkBuddy、DeepSeek Harness 等支持本地 Skill 的工具，可按各自的方式导入。使用其他 AI 对话工具时，也可以直接上传 `SKILL.md` 或粘贴正文，请 AI 按其中的规则改写简历。
+
+开始时，请提供已隐去身份信息的简历或经历，以及目标岗位描述或意向方向。
 
 > 用 $resume-writing-skill，按这份岗位描述帮我改简历。请保留能说明我实际贡献的事实，并指出哪几条还需要我核实。
 
